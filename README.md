@@ -18,4 +18,12 @@ pip3 install --no-cache-dir -r requirements.txt
 - Ubah `config_sample` > `config.env` kemudian isi `env` sesuai kebutuhan
 - Jalankan bot dengan cara `bash start.sh`
 
+## Daftar Perintah
+```
+start - Ceck keadaan bot (idup/tewas)
+stop - Menghentikan tugas diikuti dengan ID
+stats - Cek bot system
+restart - Mulai ulang bot
+``` 
+
 ##### *<i>Bot untuk penggunaan pribadi</i>
