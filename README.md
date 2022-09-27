@@ -7,7 +7,7 @@
 
 # Warp+ Injector
 Ini adalah simpel bot untuk menambahkan bandwidth Wapr+ yang ditulis dengan program Python.
-Bot akan menambahkan 1GB data per 20 detik (untuk durasi datap diatur di config namun disarankan di atas 15 detik).
+Bot akan menambahkan 1GB data per 20 detik (untuk durasi datap diatur di config, namun disarankan di atas 15 detik).
 
 ## Instalasi
 - Instal Python
