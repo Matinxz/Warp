@@ -15,7 +15,7 @@ Bot akan menambahkan 1GB data per 20 detik (untuk durasi datap diatur di config,
 ```
 pip3 install --no-cache-dir -r requirements.txt
 ```
-- Ubah `config_sample` > `config.env` kemudian isi `env` sesuai kebutuhan
+- Ubah `config_sample.env` > `config.env` kemudian isi `env` sesuai kebutuhan
 - Jalankan bot dengan cara `bash start.sh`
 
 ## Daftar Perintah
