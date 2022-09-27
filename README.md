@@ -10,7 +10,7 @@ Ini adalah simpel bot untuk menambahkan bandwidth Wapr+ yang ditulis dengan prog
 Bot akan menambahkan 1GB data per 20 detik (untuk durasi datap diatur di config namun disarankan di atas 15 detik).
 
 ## Instalasi
-- Install Python
+- Instal Python
 - Unduh repo kemudian instal dependensi
 ```
 pip3 install --no-cache-dir -r requirements.txt
